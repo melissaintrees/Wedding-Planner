@@ -26,7 +26,6 @@ $(document).ready(function(){
                 </div>
               </div>
             </div>`);
-  
         }
         addtoPlanner();
       }, "json");
